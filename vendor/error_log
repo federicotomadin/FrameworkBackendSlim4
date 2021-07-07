@@ -1,0 +1,48 @@
+[06-Aug-2018 13:05:25 UTC] PHP Parse error:  syntax error, unexpected '$fecha_ingreso' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 37
+[06-Aug-2018 15:10:27 UTC] PHP Parse error:  syntax error, unexpected '$fecha_ingreso' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 37
+[06-Aug-2018 23:35:04 UTC] PHP Parse error:  syntax error, unexpected '$fecha_ingreso' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 37
+[06-Aug-2018 23:35:28 UTC] PHP Parse error:  syntax error, unexpected '$fecha_ingreso' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 37
+[06-Aug-2018 23:35:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u663828753/public_html/clases/PedidosApi.php on line 44
+[06-Aug-2018 23:37:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/u663828753/public_html/clases/PedidosApi.php on line 44
+[07-Aug-2018 00:26:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/u663828753/public_html/clases/PedidosApi.php on line 32
+[07-Aug-2018 03:01:03 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/u663828753/public_html/clases/PedidosApi.php on line 37
+[07-Aug-2018 03:01:27 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/u663828753/public_html/clases/PedidosApi.php on line 37
+[07-Aug-2018 22:59:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 52
+[07-Aug-2018 23:51:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 55
+[07-Aug-2018 23:51:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 55
+[07-Aug-2018 23:53:45 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 55
+[07-Aug-2018 23:53:45 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 55
+[08-Aug-2018 00:05:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 60
+[08-Aug-2018 00:08:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 69
+[08-Aug-2018 00:08:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 69
+[08-Aug-2018 00:08:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 69
+[10-Aug-2018 00:02:39 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 57
+[10-Aug-2018 00:35:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 71
+[10-Aug-2018 00:35:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 72
+[10-Aug-2018 00:35:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 71
+[10-Aug-2018 00:35:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 72
+[10-Aug-2018 00:35:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 71
+[10-Aug-2018 00:35:52 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 72
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 78
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 78
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 78
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 78
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 78
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 00:41:04 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 78
+[10-Aug-2018 00:41:24 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/u663828753/public_html/clases/ListaPedidosApi.php on line 77
+[10-Aug-2018 13:02:21 UTC] PHP Parse error:  syntax error, unexpected '$pedido' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 101
+[10-Aug-2018 13:02:33 UTC] PHP Parse error:  syntax error, unexpected '$pedido' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 101
+[10-Aug-2018 13:03:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/u663828753/public_html/clases/PedidosApi.php on line 103
+[10-Aug-2018 16:16:56 UTC] PHP Parse error:  syntax error, unexpected '$consulta' (T_VARIABLE) in /home/u663828753/public_html/clases/Pedidos.php on line 184
+[10-Aug-2018 16:19:51 UTC] PHP Warning:  Illegal string offset 'Mesa' in /home/u663828753/public_html/clases/PedidosApi.php on line 549
+[10-Aug-2018 16:19:51 UTC] PHP Warning:  Illegal string offset 'Importe' in /home/u663828753/public_html/clases/PedidosApi.php on line 550
+[10-Aug-2018 20:09:50 UTC] PHP Parse error:  syntax error, unexpected '$importeMayor' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 591
+[10-Aug-2018 20:12:32 UTC] PHP Parse error:  syntax error, unexpected '$importeMayor' (T_VARIABLE) in /home/u663828753/public_html/clases/PedidosApi.php on line 591
+[10-Aug-2018 20:12:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/u663828753/public_html/clases/PedidosApi.php on line 599
+[10-Aug-2018 20:13:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/u663828753/public_html/clases/PedidosApi.php on line 599
